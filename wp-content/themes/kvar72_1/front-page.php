@@ -14,7 +14,7 @@
 		<span class="post_btn post_btn_right"><a href="<?php the_permalink()?>">Подробнее</a></span>
 		<span class="post_btn post_btn_left"><a href="<?php the_permalink()?>">Заказать</a></span>
 	</div>
-	<div class="clear"></div>
+	<!--<div class="clear"></div>-->
 	<?php endwhile; endif; ?>
 	</div>
 	</div>
