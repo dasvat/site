@@ -99,16 +99,19 @@ section{
 	padding:20px 0;
 }
 .post{
-	width:40%;
-	height:300px;
-	margin:20px 4.8%;
+	width:420px;
+	margin:20px 28.9px;
 	display:inline-block;
 	text-align:center;
-	box-shadow: 0 0 2px rgba(0,0,0,1);
+	box-shadow: 0 0 8px rgba(0,0,0,1);
 }
-.clear{clear:both;width:100%;}
+.clear{
+	clear:both;
+	width:100%;
+	}
 .entry img{
-	width:95%;
+	width:400px;
+	height:400px;
 }
 .post_btn_left
 {
@@ -120,7 +123,7 @@ section{
 }
 .post_btn
 {
-	margin:0 30px;
+	margin:20px 30px;
 }
 .post_btn a
 {
