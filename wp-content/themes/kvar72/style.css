@@ -876,8 +876,9 @@ body {
 /*-----------------------header----------------------*/
 .wrapper{
 	position:relative;
+	padding-bottom: 1px;
 	Width:100%;
-	min-height: 100%;
+	min-height:100%;
 	margin:0 auto;
 	background-color:#333;
 }
@@ -1042,7 +1043,8 @@ section{
 .footer_wrapper
 {
 	height:100%;
-	position:relative;
+	position:absolute;
+	bottom:0;
 	width:960px;
 	margin:0 auto;
 
